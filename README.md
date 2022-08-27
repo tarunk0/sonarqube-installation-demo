@@ -230,7 +230,10 @@
  - Click on save and build the job.
  - You will see that Jenkins will integrate with SonarQube which does code analysis of your project.
 Login to SonarQube, click on Projects to see the project dash board.
+ 
+ ![image](https://user-images.githubusercontent.com/92631457/187051002-7d656f4a-288f-472e-98e3-07bcddce5533.png)
 
+ - You can also make a pipeline job and let sonarqube do it job of continuous inspection.
  
 
 
